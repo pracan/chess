@@ -1,0 +1,56 @@
+{
+  "files": {
+    "Board.java": [
+      {
+        "id": "d23c29e3-e8c0-4392-8e25-d9a7f5f00955",
+        "line": 135,
+        "version": 391,
+        "index": 4155
+      },
+      {
+        "id": "a2d128e4-26ab-47eb-aad6-f8c2b8728b45",
+        "line": 148,
+        "version": 391,
+        "index": 4797
+      },
+      {
+        "id": "f332466d-5061-49bb-aab6-2da799468728",
+        "line": 162,
+        "version": 391,
+        "index": 5171
+      },
+      {
+        "id": "1bb6e816-39fc-4ec0-acb2-c48b77bfcbf8",
+        "line": 165,
+        "version": 391,
+        "index": 5404
+      },
+      {
+        "id": "d76627f9-a28c-4082-b2d8-2f4ca1bdb7ce",
+        "line": 168,
+        "version": 391,
+        "index": 5560
+      },
+      {
+        "id": "e2dd1738-74a4-4224-8246-743b769b65ce",
+        "line": 172,
+        "version": 391,
+        "index": 5627
+      }
+    ],
+    "Piece.java": [
+      {
+        "id": "411abe69-7faa-4843-a20f-487f6be420d7",
+        "line": 779,
+        "version": 12,
+        "index": 35629
+      },
+      {
+        "id": "8c6e3559-be1d-4b60-9506-2a3ad19790ab",
+        "line": 779,
+        "version": 12,
+        "index": 35629
+      }
+    ]
+  }
+}
