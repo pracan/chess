@@ -1,0 +1,39 @@
+Begining of the game : oiseau
+Player 1 : cobra
+Player 2 : sandwitch
+turn n° 0
+BR BN BB BQ BK BB BN BR
+BP BP BP BP BP BP BP BP
+                       
+                       
+                       
+                       
+WP WP WP WP WP WP WP WP
+WR WN WB WQ WK WB WN WR
+turn n° 1
+BR BN BB BQ BK BB BN BR
+BP BP BP BP BP BP BP BP
+                       
+                       
+            WP         
+                       
+WP WP WP WP    WP WP WP
+WR WN WB WQ WK WB WN WR
+turn n° 2
+BR BN BB BQ BK BB BN BR
+BP BP BP BP    BP BP BP
+                       
+            BP         
+            WP         
+                       
+WP WP WP WP    WP WP WP
+WR WN WB WQ WK WB WN WR
+turn n° 3
+BR BN BB BQ BK BB BN BR
+BP BP BP BP    BP BP BP
+                       
+            BP       WQ
+            WP         
+                       
+WP WP WP WP    WP WP WP
+WR WN WB    WK WB WN WR
